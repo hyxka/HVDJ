@@ -1,0 +1,170 @@
+h4
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+title
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+text
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html
+{
+  background-image: url("https://i.pinimg.com/564x/53/cf/a8/53cfa843f46f1df08fb2076e613b86ac.jpg");
+}
+
+.whole1
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 50px;
+    padding: 20px;
+    display: flex;
+    border: solid;
+    margin-top: 20px;
+    justify-content:space-between;
+    background-color: rgba(250, 235, 215, 0.678);
+}
+
+.wish
+{
+    border: solid;
+    border-radius: 50px;
+    padding-top: 65px;
+    padding-left:10px;
+    background-image: url("https://i.pinimg.com/236x/ba/03/8b/ba038b5bb8b4f9b8d3942f8d067a0398.jpg");
+    padding-right: 10px;
+    justify-content: center;
+}
+
+.explain
+{
+    border: solid;
+    border-radius: 50px;
+    padding:20px;
+    justify-content: center;
+    width:450px;
+    background-image: url("https://i.pinimg.com/564x/b2/9d/ae/b29daeb20fbd90460cccbf1dce129afd.jpg");
+    background-size: cover;
+}
+
+.cutephoto
+{
+    border: solid;
+    border-radius: 50px;
+    padding:10px;
+    justify-content: center;
+    width:100px;
+    background-image: url('https://i.pinimg.com/236x/f6/ca/94/f6ca944c51ae0e29718af67924ab089e.jpg');
+}
+
+.whole2
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 50px;
+    padding: 20px;
+    display: flex;
+    margin-top: 20px;
+    border: solid;
+    justify-content:space-between;
+    background-color: rgba(212, 203, 123, 0.678);
+}
+
+.sunflower
+{
+    display:unset;
+    padding-right: 10px;
+    justify-content: space-between;
+}
+
+.sftext
+{
+    border: solid;
+    border-radius: 50px;
+    width:475px;
+    padding-left:20px;
+    padding-right: 20px;
+    justify-content: center;
+    height: 210px;
+    background-image: url("https://i.pinimg.com/236x/c4/6a/d3/c46ad3f01a4790dd599bc9deb8462405.jpg");
+    background-size: cover;
+}
+
+.aes
+{
+    border: solid;
+    border-radius: 50px;
+    width:475px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    height: 150px;
+    background-image: url("https://i.pinimg.com/236x/51/d2/ea/51d2ea36059bf34da848ba24c1bf8c1d.jpg");
+    background-size: cover;
+}
+
+.her
+{
+    border: solid;
+    border-radius: 50px;
+    padding:15px;
+    justify-content: center;
+    background-image: url("https://i.pinimg.com/564x/4c/28/e7/4c28e7c8f2557ab382bdba99235dc372.jpg");
+    width: 1500px;
+}
+
+.nice
+{
+    border: solid;
+    border-radius: 50px;
+    padding:10px;
+    justify-content: center;
+    width: 940px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgba(202, 156, 96, 0.678);
+}
+
+.whole4
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 50px;
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.poem
+{
+    border: solid;
+    background-color: rgba(250, 228, 200, 0.678);
+    border-radius: 50px;
+    background-image: url("https://i.pinimg.com/236x/a3/5e/fd/a35efd14908dabbec750bfc4b94b1af3.jpg");
+    padding: 20px;
+    margin-left: 150px;
+    background-size: cover;
+    margin-right: 150px;
+}
